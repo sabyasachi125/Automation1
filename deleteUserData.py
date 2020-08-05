@@ -1,4 +1,5 @@
 import requests
+import json
 
 #API URL
 url='https://reqres.in/api/users/2'
